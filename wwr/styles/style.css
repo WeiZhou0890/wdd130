@@ -220,6 +220,13 @@ main section img {
     box-sizing: border-box;
 }
 
+.p2img1 {
+    text-align: center;
+}
+
+.page2msg{
+    max-width: 1600px;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
