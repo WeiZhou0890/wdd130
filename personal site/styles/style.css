@@ -33,6 +33,15 @@ footer {
     grid-row: 10/11;
 }
 
+footer h3 {
+    color: #ffffff;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 #life img {
     width: 100%;
 }
