@@ -135,3 +135,62 @@ footer a {
     grid-row: 9/10;
     box-shadow: 5px 5px 10px #6f7364;
 }
+
+.page3content {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+
+.Cayenne {
+    width: 100%;
+    grid-column:1/6;
+    grid-row: 5/8;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.Cayenneinterior {
+    width: 100%;
+    grid-column:6/10;
+    grid-row: 9/11;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.p3msg {
+    background-color: #303030 ;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column:6/10;
+    grid-row: 6/7;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.p3msg h2 {
+    color: #ffffff;
+}
+
+
+.p3msg p {
+    color: #ffffff;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+.p3msg2 {
+    background-color: #303030 ;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column:1/6;
+    grid-row: 9/10;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.p3msg2 h2 {
+    color: #ffffff;
+}
+
+
+.p3msg2 p {
+    color: #ffffff;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
