@@ -141,27 +141,30 @@ footer a {
     grid-template-columns: repeat(10, 1fr);
 }
 
-.Cayenne {
+.Cayennelife {
     width: 100%;
+    margin: 200px 0;
     grid-column:1/6;
-    grid-row: 5/8;
-    box-shadow: 5px 5px 10px #6f7364;
+    grid-row: 6/9;
+    box-shadow: 5px 5px 10px #595a55;
 }
 
 .Cayenneinterior {
     width: 100%;
+    margin: 200px 0;
     grid-column:6/10;
     grid-row: 9/11;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #595a55;
 }
 
 .p3msg {
+    margin: 200px 0;
     background-color: #303030 ;
     line-height: 1.5em;
     padding: 35px;
     grid-column:6/10;
     grid-row: 6/7;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #595a55;
 }
 
 .p3msg h2 {
@@ -176,12 +179,13 @@ footer a {
 }
 
 .p3msg2 {
+    margin: 200px 0;
     background-color: #303030 ;
     line-height: 1.5em;
     padding: 35px;
     grid-column:1/6;
     grid-row: 9/10;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #595a55;
 }
 
 .p3msg2 h2 {
